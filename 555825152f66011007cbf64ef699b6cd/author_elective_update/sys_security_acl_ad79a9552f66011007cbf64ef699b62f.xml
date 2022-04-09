@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>false</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition table="x_744525_acl_test_test_1">test1STARTSWITH1^EQ<item endquery="false" field="test1" goto="false" newquery="false" operator="STARTSWITH" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Default access control on x_744525_acl_test_test_1</description>
+        <name>x_744525_acl_test_test_1</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 07:13:12</sys_created_on>
+        <sys_id>ad79a9552f66011007cbf64ef699b62f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_744525_acl_test_test_1</sys_name>
+        <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
+        <sys_update_name>sys_security_acl_ad79a9552f66011007cbf64ef699b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:37:08</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</application>
+        <file_path/>
+        <instance_id>fc98ef6fdbd7d3448264f70fbf961973</instance_id>
+        <instance_name>dev66197</instance_name>
+        <name>sys_security_acl_ad79a9552f66011007cbf64ef699b62f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition table="x_744525_acl_test_test_1">test1STARTSWITH1^EQ<item endquery="false" field="test1" goto="false" newquery="false" operator="STARTSWITH" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Default access control on x_744525_acl_test_test_1</description><name>x_744525_acl_test_test_1</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-29 07:13:12</sys_created_on><sys_id>ad79a9552f66011007cbf64ef699b62f</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_744525_acl_test_test_1</sys_name><sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package><sys_policy/><sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope><sys_update_name>sys_security_acl_ad79a9552f66011007cbf64ef699b62f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 10:37:08</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>536328491</payload_hash>
+        <record_name>x_744525_acl_test_test_1</record_name>
+        <reverted_from/>
+        <source>595825152f66011007cbf64ef699b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:37:08</sys_created_on>
+        <sys_id>2eb12b6d2fa6411007cbf64ef699b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fda668f6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:37:08</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>66b12b6d7aa6411082541292ca4f163c</update_guid>
+        <update_guid_history>66b12b6d7aa6411082541292ca4f163c:536328491,f54fb661cb66411009fef55a387ab003:-1869979406,97cefa21056641109e9c4a9e33d1b0db:-1355939757,180df6ed372641108a4f28ebce918e25:-1221958925,6179a95522660110b34916b1f9ab1f32:788003534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 11:22:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>c987f948d1d04fdb9f9a0d99bea84fd1</sys_id>
+        <sys_metadata>ad79a9552f66011007cbf64ef699b62f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744525_acl_test_test_1</sys_name>
+        <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
+        <sys_parent display_value="x_744525_acl_test_test_1">a179a9552f66011007cbf64ef699b63c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
+        <sys_scope_delete display_value="">88ff5e92e90043d49d8a97b5afb72c91</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ad79a9552f66011007cbf64ef699b62f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ad79a9552f66011007cbf64ef699b62f">2eb12b6d2fa6411007cbf64ef699b63c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 11:22:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>false</active>
+        <admin_overrides>false</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_744525_acl_test_test_1</description>
+        <name>x_744525_acl_test_test_1</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 07:13:12</sys_created_on>
+        <sys_id>6179a9552f66011007cbf64ef699b636</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_744525_acl_test_test_1</sys_name>
+        <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
+        <sys_update_name>sys_security_acl_6179a9552f66011007cbf64ef699b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 11:07:10</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</application>
+        <file_path/>
+        <instance_id>fc98ef6fdbd7d3448264f70fbf961973</instance_id>
+        <instance_name>dev66197</instance_name>
+        <name>sys_security_acl_6179a9552f66011007cbf64ef699b636</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>false</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_744525_acl_test_test_1</description><name>x_744525_acl_test_test_1</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-29 07:13:12</sys_created_on><sys_id>6179a9552f66011007cbf64ef699b636</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_744525_acl_test_test_1</sys_name><sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package><sys_policy/><sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope><sys_update_name>sys_security_acl_6179a9552f66011007cbf64ef699b636</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 11:07:10</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-891718120</payload_hash>
+        <record_name>x_744525_acl_test_test_1</record_name>
+        <reverted_from/>
+        <source>595825152f66011007cbf64ef699b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 11:07:10</sys_created_on>
+        <sys_id>6a986be12fe6411007cbf64ef699b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fda820e2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 11:07:10</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a2986be106e64110448d2a33161b267e</update_guid>
+        <update_guid_history>a2986be106e64110448d2a33161b267e:-891718120,0d02a3adbba64110d58ee45fd5aa4480:-729512871,2579a95521660110df9b8d83e6b68538:484337056</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 11:22:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>460e4d0cf1444102866a596742bd51c4</sys_id>
+        <sys_metadata>6179a9552f66011007cbf64ef699b636</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744525_acl_test_test_1</sys_name>
+        <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
+        <sys_parent display_value="x_744525_acl_test_test_1">a179a9552f66011007cbf64ef699b63c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
+        <sys_scope_delete display_value="">88ff5e92e90043d49d8a97b5afb72c91</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6179a9552f66011007cbf64ef699b636</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6179a9552f66011007cbf64ef699b636">6a986be12fe6411007cbf64ef699b67e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 11:22:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

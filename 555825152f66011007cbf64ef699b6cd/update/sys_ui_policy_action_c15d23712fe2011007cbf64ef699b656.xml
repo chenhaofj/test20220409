@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>test1</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 06:06:41</sys_created_on>
+        <sys_id>c15d23712fe2011007cbf64ef699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c15d23712fe2011007cbf64ef699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 06:06:41</sys_updated_on>
+        <table>x_744525_acl_test_test_1</table>
+        <ui_policy display_value="ces ">bceceb312fe2011007cbf64ef699b603</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
