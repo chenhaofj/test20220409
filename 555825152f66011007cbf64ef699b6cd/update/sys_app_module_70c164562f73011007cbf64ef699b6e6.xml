@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="展示数量">e4b648b82f63011007cbf64ef699b68d</application>
+        <application display_value="看怎么展示">3f32ec762fb5011007cbf64ef699b689</application>
         <assessment/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>展示数量s</mobile_title>
+        <mobile_title>链接</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_744525_acl_test_x_744525_acl_test</name>
-        <order/>
+        <name>x_744525_testglob_222</name>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>sysparam=123</query>
         <report/>
-        <roles>x_744525_acl_test._user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-16 03:47:31</sys_created_on>
+        <sys_created_on>2022-06-02 07:55:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>24b648b82f63011007cbf64ef699b691</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>展示数量1s</sys_name>
+        <sys_id>70c164562f73011007cbf64ef699b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>链接</sys_name>
         <sys_overrides/>
         <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
-        <sys_update_name>sys_app_module_24b648b82f63011007cbf64ef699b691</sys_update_name>
+        <sys_update_name>sys_app_module_70c164562f73011007cbf64ef699b6e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-07 09:46:58</sys_updated_on>
+        <sys_updated_on>2022-06-02 07:55:23</sys_updated_on>
         <timeline_page/>
-        <title>展示数量1s</title>
+        <title>链接</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
