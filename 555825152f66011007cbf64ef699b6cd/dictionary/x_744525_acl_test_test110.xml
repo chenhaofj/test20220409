@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test110" max_length="40" name="x_744525_acl_test_test110" sizeclass="0" type="collection">
+        <element label="a" max_length="40" name="a" type="string"/>
+    </element>
+</database>

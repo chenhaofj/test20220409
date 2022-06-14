@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message><![CDATA[<p>生效</p>]]></message>
-        <name>测试业务规则</name>
+        <name>测试业务规则1</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -38,15 +38,15 @@ var gr = new GlideRecord('x_744525_acl_test_test_1');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3c4727f92fa2011007cbf64ef699b66a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>测试业务规则</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>测试业务规则1</sys_name>
         <sys_overrides/>
         <sys_package display_value="acl-test1111" source="x_744525_acl_test">555825152f66011007cbf64ef699b6cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="acl-test1111">555825152f66011007cbf64ef699b6cd</sys_scope>
         <sys_update_name>sys_script_3c4727f92fa2011007cbf64ef699b66a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-01 08:55:21</sys_updated_on>
+        <sys_updated_on>2022-06-10 08:49:16</sys_updated_on>
         <template/>
         <when>before_display</when>
     </sys_script>
